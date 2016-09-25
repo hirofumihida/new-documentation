@@ -40,7 +40,7 @@
 
 * 提出物フォーマット:
   * 画像: BMP,PNG
-  * テキスト: UTF-8 LF なし
+  * テキスト: UTF-8 LF BOMなし
   * Office Open XML (xlsx, docx, etc...)
 
 
@@ -60,4 +60,3 @@
         * zip 要否
         * 暗号化要否
   * Google Docs:
-   
